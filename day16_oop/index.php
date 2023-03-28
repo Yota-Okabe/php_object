@@ -19,8 +19,4 @@
     echo $human->name;
     $human->cook();
 
-
-
-
-
 ?>
