@@ -23,7 +23,7 @@
         // }
     // ゲッター
         public function getName(){
-            return "この車は" . $this->name . "です。";
+            return "この車種は" . $this->name . "です。";
         }
 // コンストラクタ
         public function __construct($car_name){
